@@ -1,4 +1,7 @@
 # FoodFast (IIITB Canteen App)
+<h1>Demo</h1>
+Link for slides and video demo:
+https://drive.google.com/drive/folders/11KPwMScCtfYaiZj-tI85eAEp5LSSR39S?usp=drive_link
 <h1>Setting up the Project</h1>
 The first step in your Flutter application development is to install an IDE (Integrated Development Environment). In theory, IDE is not needed and you can use only the SDK and any text editor for development.However, IDEs provide features like syntax highlighting, code completion, and debugger which are very helpful during the development process. In this tutorial, we will use Visual Studio along with an Android Simulator to run this project.
 <br> <br/>
